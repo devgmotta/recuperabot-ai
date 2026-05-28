@@ -156,10 +156,4 @@ Após iniciar a aplicação, abra o arquivo `data/inadimplentes.csv` e escolha u
 
 ## 👤 Sobre o Autor
 
-Esse projeto nasceu de uma experiência que poucos desenvolvedores têm: a visão da trincheira operacional. Antes de escrever a primeira linha de código, eu já conhecia de perto a rotina de uma central de atendimento — atuei como Operador Jr e Control Desk Jr, lidando diariamente com filas, TMA, retenção e a pressão de manter clientes que estavam prestes a cancelar. Eu sei exatamente onde o processo quebra, porque eu estava lá quando quebrava. Hoje, cursando Análise e Desenvolvimento de Sistemas e Engenharia de Software, estou unindo essa vivência de negócio com as ferramentas certas — Python, IA Generativa e automação — para construir soluções que resolvem problemas reais, não apenas exercícios acadêmicos. O RecuperaBot é a prova de que entender o problema é tão importante quanto saber programar a solução.
-
----
-
-## 📄 Licença
-
-Este projeto é de uso livre para fins de estudo e portfólio.
+Esse projeto nasceu de uma experiência que poucos desenvolvedores têm: a visão da trincheira operacional. Antes de escrever a primeira linha de código, eu já conhecia de perto a rotina de uma central de atendimento — atuei como Operador Jr e Control Desk Jr, lidando diariamente com filas, TMA, retenção e a pressão de manter clientes que estavam prestes a cancelar. Eu sei exatamente onde o processo quebra, porque eu estava lá quando quebrava. Hoje, cursando Análise e Desenvolvimento de Sistemas, estou unindo essa vivência de negócio com as ferramentas certas — Python, IA Generativa e automação — para construir soluções que resolvem problemas reais, não apenas exercícios acadêmicos. O RecuperaBot é a prova de que entender o problema é tão importante quanto saber programar a solução.
