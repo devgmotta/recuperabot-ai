@@ -4,7 +4,6 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-2.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-6.x-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-2ecc71?style=for-the-badge)
 
 ---
 
